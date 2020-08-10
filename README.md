@@ -10,6 +10,10 @@ I used object-oriented programming to develop this game.
 # Screenshots
 ![Alt text](Screenshot/1.png?raw=true "Screenshot1")
 ![Alt text](Screenshot/2.png?raw=true "Screenshot1")
+![Alt text](Screenshot/3.png?raw=true "Screenshot1")
+![Alt text](Screenshot/4.png?raw=true "Screenshot1")
+![Alt text](Screenshot/5.png?raw=true "Screenshot1")
+
 
 #Abilities
 1. Playing with Bots  
