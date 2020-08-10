@@ -15,7 +15,7 @@ I used object-oriented programming to develop this game.
 ![Alt text](Screenshot/5.png?raw=true "Screenshot1")
 
 
-#Abilities
+# Abilities
 1. Playing with Bots  
 2. MultiPlayer
 
